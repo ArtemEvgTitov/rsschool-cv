@@ -1,13 +1,5 @@
-@keyframes color-change {
-    0% {
-        color: rgb(1, 72, 19);
-    }
-    50% {
-        color: white;
-    }
-    100% {
-        color: rgb(1, 72, 19);
-    }
+* {
+    transition: all 0.5s ease-out;
 }
 
 body,
